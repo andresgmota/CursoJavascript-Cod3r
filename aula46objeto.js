@@ -7,7 +7,7 @@ const disco = {
 console.log(disco)
 // Outra foma
 const disc2 = {}
-disc2.nome = 'Let it Bleed'
+disc2.album = 'Let it Bleed'
 disc2.artista = 'Rolling Stones'
 disc2.ano = 1969
 disc2.estilo = 'rock'

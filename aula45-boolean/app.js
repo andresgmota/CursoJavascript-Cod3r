@@ -6,3 +6,4 @@ console.log(!' ')
 
 let nome = 'Lucas'
 console.log(nome || 'Desconhecido')// caso o nome não estaja preenchido imprime 'Desconhecido.
+
